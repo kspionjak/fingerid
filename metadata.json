@@ -1,0 +1,10 @@
+{
+  "name": "FingerID",
+  "description": "FingerID replaces traditional password prompts with fingerprint authentication, letting you manage login credentials and switch to biometric access effortlessly. Fast, secure, and user-friendly.",
+  "uuid": "fingerid@kspionjak.github.com",
+  "shell-version": [
+    "43"
+  ],
+  "url": "https://github.com/kspionjak/fingerid",
+  "version": 1
+}
